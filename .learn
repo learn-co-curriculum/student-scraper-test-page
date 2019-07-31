@@ -1,5 +1,3 @@
-tags:
-- lab
+---
 languages:
-- Ruby
-    
+- ruby
